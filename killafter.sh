@@ -6,7 +6,7 @@
 # Author: Lup Peng (https://github.com/davidloke/useful-scripts)
 #
 # Usage 
-# This script takes in two parameters - the process CMD, and threshold (in minutes).
+# This script takes in two parameters - the application CMD (based on the ps command), and threshold (in minutes).
 #
 # Example: 
 #
