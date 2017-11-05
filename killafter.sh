@@ -1,6 +1,8 @@
 #!/bin/sh
 
 # Script to kill a process if it has been running after a certain number of minutes (inclusive) 
+# This script is provided "as is", without warranty of any kind, express or implied.
+# 
 # Author: Lup Peng (https://github.com/davidloke/useful-scripts)
 #
 # Usage 
